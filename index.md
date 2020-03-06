@@ -10,7 +10,7 @@ I'm a [backend software engineer](https://github.com/renaynay), formerly at [Whi
 I like the Badlands in South Dakota, Golang, hot sauce/peppers, and learning about all things distributed systems.
 
 #### I like working with
-Docker, Kubernetes, Python, Golang, Postgres, and sometimes Ruby.
+Golang, Docker, Kubernetes, Python, Postgres, and sometimes Ruby.
 
 #### I enjoy learning about
 Networking, peer-to-peer and distributed systems, and hot peppers.
