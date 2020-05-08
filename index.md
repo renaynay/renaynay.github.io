@@ -5,12 +5,12 @@ title: About
 
 #### I'm Rene
 
-I'm a [backend software engineer](https://github.com/renaynay), formerly at [Whiteblock](https://whiteblock.io/). 
+I'm a [software engineer](https://github.com/renaynay), formerly at [Whiteblock](https://whiteblock.io/). 
 
 I like the Badlands in South Dakota, Golang, hot sauce/peppers, and learning about all things distributed systems.
 
 #### I like working with
-Golang, Docker, Kubernetes, Python, Postgres, and sometimes Ruby.
+Golang, Docker, Kubernetes, Python, Postgres, and sometimes (mostly never) Ruby.
 
 #### I enjoy learning about
 Networking, peer-to-peer and distributed systems, and hot peppers.
