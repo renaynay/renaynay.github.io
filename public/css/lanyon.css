@@ -42,8 +42,8 @@ body {
 
 html {
   font-family: "Lucida Console", Monaco, monospace;;
-  background: rgb(213,181,255);
-  background: linear-gradient(90deg, rgb(213, 181, 255) 0%, rgba(255,236,171,1) 50%, rgba(255,206,227,1) 100%);
+  background: rgb(255,249,189);
+  background: linear-gradient(90deg, rgba(255,249,189,1) 0%, rgba(223,242,225,1) 33%, rgba(207,249,255,1) 67%, rgba(250,216,255,1) 100%);
 }
 
 h1, h2, h3, h4, h5, h6 {
