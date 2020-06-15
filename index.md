@@ -15,10 +15,11 @@ Golang, Docker, Kubernetes, Python, Postgres, and sometimes (mostly never) Ruby.
 #### I enjoy learning about
 Networking, peer-to-peer and distributed systems, and hot peppers.
 
-Check out my [blog](https://blog.rene.sh) where I write about something new I learn each week.
-
 #### I have fun
 Making hot sauces, [implementing](https://github.com/renaynay/go-hobbits) light wire protocols in Go and taking [photos](https://www.instagram.com/renenayman/).
+
+#### Check out
+My [blog](https://blog.rene.sh) where I write about something new I learn each week.
 
 #### Watch me
 [Speak](https://www.youtube.com/watch?v=ebh3Y1vHQBo) about networking in ethereum 2.0 at Devcon 2019 and [summarize](https://www.youtube.com/watch?v=oJfq5SHlX_A&t=1s) my work in helping the Prysm ethereum 2.0 client communicate with the Artemis ethereum 2.0 client.
