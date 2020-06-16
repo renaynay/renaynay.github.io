@@ -9,6 +9,9 @@ I'm a [software engineer](https://github.com/renaynay).
 
 I like the Badlands in South Dakota, Golang, hot sauce, and learning about all things distributed systems.
 
+#### I believe
+Black Lives [Matter](https://org2.salsalabs.com/o/6857/p/salsa/donation/common/public/?donate_page_KEY=15780&_ga=2.145232500.1514722357.1592322097-475186111.1592322097).
+
 #### I like working with
 Golang, Docker, Kubernetes, Python, Postgres, and sometimes (mostly never) Ruby.
 
