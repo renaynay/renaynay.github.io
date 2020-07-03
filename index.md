@@ -5,7 +5,7 @@ title: About
 
 #### I'm Rene
 
-I'm a [software engineer](https://github.com/renaynay), working on [geth](https://github.com/ethereum/go-ethereum). 
+I'm a [software engineer](https://github.com/renaynay), working on [go-ethereum](https://github.com/ethereum/go-ethereum). 
 
 I like the Badlands in South Dakota, Golang, hot sauce, and learning about all things distributed systems.
 
