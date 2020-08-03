@@ -19,7 +19,7 @@ Golang, Docker, Kubernetes, Python, Postgres, and sometimes (mostly never) Ruby.
 Networking, peer-to-peer and distributed systems, and hot peppers.
 
 #### I have fun
-Making hot sauces, [implementing](https://github.com/renaynay/go-hobbits) light wire protocols in Go and taking [photos](https://www.instagram.com/renenayman/).
+Making hot sauces, [implementing](https://github.com/renaynay/go-hobbits) light wire protocols in Go and taking [photos](https://www.instagram.com/photoreenalistic/).
 
 #### Check out
 My [blog](https://blog.rene.sh) where I write about something new I learn each week.
