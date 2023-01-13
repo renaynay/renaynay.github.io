@@ -15,6 +15,6 @@ My [blog](https://blog.rene.sh) where I sometimes write about something new I've
 #### Watch me
 [Speak](https://www.youtube.com/watch?v=ebh3Y1vHQBo) about networking in ethereum 2.0 at Devcon 2019.
 
-#### Talk to me
+#### (Do not) talk to me
 [Here](mailto:renelubov.dev@gmail.com).
 
