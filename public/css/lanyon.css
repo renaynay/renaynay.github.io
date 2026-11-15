@@ -378,3 +378,7 @@ h1, h2, h3, h4, h5, h6, .page-title, .post-title { font-weight: 700; }
 /* Divider matches text column width */
 .photo-divider { max-width: 44rem; margin: 0 auto 2rem !important; box-sizing: border-box; width: calc(100% - 3rem); }
 @media (min-width: 46rem) { .photo-divider { width: calc(44rem - 3rem); } }
+
+/* Divider under heading (no photo) */
+.content .photo-divider { width: 100% !important; max-width: none; margin: 0.75rem 0 1.5rem !important; }
+.content { padding-top: 4rem; }

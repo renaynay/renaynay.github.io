@@ -5,6 +5,8 @@ title: About
 
 #### Hi, I'm Rene
 
+<hr class="photo-divider">
+
 I'm a distributed systems [software engineer](https://github.com/renaynay), working on [celestia](https://github.com/celestiaorg), previously at [go-ethereum](https://github.com/ethereum/go-ethereum), and before that, [whiteblock](https://github.com/whiteblock/genesis).
 
 I specialise in high-throughput data networking and storage infrastructure in Go.
