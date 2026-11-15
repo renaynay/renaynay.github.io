@@ -15,7 +15,7 @@ My [blog](https://blog.rene.sh) where I sometimes write about something new I've
 #### Watch me
 * [Talk](https://www.youtube.com/watch?v=DIG19_1g2BI) about data availability sampling 
 * [Explain](https://streameth.org/watch/65b8f8d1a5b2d09b88ec1353) why light nodes are 'better' than light clients
-* [Demo](https://www.youtube.com/watch?v=lkE8L2UEZC4&list=PLjOcf_IVqERlxGiVo2Aomc1ef1IINUc3I&index=11&t=1051s) running a rollup on a Celestia light node
+* [Demo](https://youtu.be/lkE8L2UEZC4?si=7fHAvbTTQV4omtLY&t=1) running a rollup on a Celestia light node
 * [Speak](https://www.youtube.com/watch?v=ebh3Y1vHQBo) about networking in ethereum 2.0 at Devcon 2019.
 
 #### (Do not) talk to me
