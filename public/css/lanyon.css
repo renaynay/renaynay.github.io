@@ -233,3 +233,148 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* Arimo font */
+@font-face {
+  font-family: "Arimo";
+  src: url("../fonts/Arimo-VariableFont_wght.ttf") format("truetype");
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Arimo";
+  src: url("../fonts/Arimo-Italic-VariableFont_wght.ttf") format("truetype");
+  font-weight: 400 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+html, body, .masthead-title, .sidebar {
+  font-family: "Arimo", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .masthead-title, .page-title, .post-title {
+  font-family: "Arimo", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+}
+
+/* Arimo weight + spacing tweaks */
+html, body {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+h1, h2, h3, h4, h5, h6, .masthead-title, .page-title, .post-title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+strong, b { font-weight: 700; }
+
+/* White background */
+html, body, .wrap, .masthead { background: #fff !important; }
+
+.side-photo { z-index: 1000; }
+
+/* Larger + 75% opacity for photo and text */
+.side-photo { width: 290px; height: 210px; opacity: 0.75; }
+html { font-size: 18px; }
+@media (min-width: 38em) { html { font-size: 22px; } }
+.masthead, .content { opacity: 0.75; }
+
+/* JetBrains Mono everywhere; lightest body */
+html, body, .masthead-title, .sidebar, p, li, a,
+h1, h2, h3, h4, h5, h6, .page-title, .post-title {
+  font-family: "JetBrains Mono", Menlo, monospace !important;
+}
+html, body, p, li { font-weight: 100; }
+h1, h2, h3, h4, h5, h6, .masthead-title, .page-title, .post-title { font-weight: 700; }
+
+/* PT Serif everywhere */
+html, body, .masthead-title, .sidebar, p, li, a,
+h1, h2, h3, h4, h5, h6, .page-title, .post-title {
+  font-family: "PT Serif", Georgia, serif !important;
+}
+html, body, p, li { font-weight: 400; }
+
+/* Center the text column */
+.wrap .container, .masthead .container, .content {
+  max-width: 38rem;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+
+/* Center the column in the space to the right of the photo on wide screens */
+@media (min-width: 60em) {
+  .wrap { padding-left: 330px; padding-right: 40px; box-sizing: border-box; }
+}
+
+/* Center the column in the space to the right of the photo on wide screens */
+@media (min-width: 60em) {
+  .wrap { padding-left: 330px; padding-right: 40px; box-sizing: border-box; }
+}
+
+/* Smaller default size */
+html { font-size: 16px; }
+@media (min-width: 38em) { html { font-size: 18px; } }
+
+/* Lighter-looking body text (PT Serif has no thin weight, so use a softer gray) */
+.content p, .content li { color: #8a8a8a; }
+
+/* Nudge column left; bigger photo */
+@media (min-width: 60em) {
+  .wrap { padding-left: 220px !important; }
+}
+.side-photo { width: 340px !important; height: 245px !important; }
+
+/* Photo uncropped + centered above content (no fixed position) */
+.side-photo {
+  position: static !important;
+  display: block !important;
+  margin: 0 auto 2rem !important;
+  width: 260px !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+@media (min-width: 60em) {
+  .wrap { padding-left: 0 !important; padding-right: 0 !important; }
+}
+
+/* Photo at very top; "Hi" sits right above "I'm Rene" in the same column */
+.side-photo { margin: 0 auto 1.5rem !important; }
+.masthead { padding-top: 0 !important; padding-bottom: 0 !important; margin-bottom: .5rem !important; }
+.masthead .container { max-width: 38rem !important; margin: 0 auto !important; padding: 0 1.5rem !important; }
+.masthead-title { text-align: left !important; }
+
+/* No "Hi"; space above photo; ~15% wider text column */
+.side-photo { margin: 2.5rem auto 1.5rem !important; }
+.wrap .container, .content { max-width: 44rem !important; }
+
+/* Back to Arimo everywhere */
+html, body, .masthead-title, .sidebar, p, li, a,
+h1, h2, h3, h4, h5, h6, .page-title, .post-title {
+  font-family: "Arimo", Helvetica, Arial, sans-serif !important;
+}
+html, body, p, li { font-weight: 400; }
+h1, h2, h3, h4, h5, h6, .page-title, .post-title { font-weight: 700; }
+
+/* Links: bold, no underline */
+.content a { font-weight: 700 !important; text-decoration: none !important; border-bottom: none !important; color: #000; }
+.content a:hover { text-decoration: underline !important; }
+
+/* Thin divider under the photo, inset from page edges */
+.side-photo { margin-bottom: 0 !important; }
+.photo-divider {
+  border: 0;
+  border-top: 1px solid #000;
+  margin: 0 40px 2rem;
+  opacity: 0.75;
+}
+
+.photo-divider { opacity: 0.5; }
+
+/* Divider matches text column width */
+.photo-divider { max-width: 44rem; margin: 0 auto 2rem !important; box-sizing: border-box; width: calc(100% - 3rem); }
+@media (min-width: 46rem) { .photo-divider { width: calc(44rem - 3rem); } }
